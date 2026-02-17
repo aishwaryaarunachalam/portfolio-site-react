@@ -119,8 +119,7 @@ const Contact = () => {
           >
             <h3 className="text-3xl font-bold mb-6">Get In Touch</h3>
             <p className="text-gray-400 mb-10 leading-relaxed">
-              Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. 
-              Vestibulum ante ipsum primis.
+              For any inquiries regarding AI engineering, please fill out the form below and I will get back to you as soon as possible.
             </p>
 
             <form onSubmit={handleSubmit} className="space-y-6">

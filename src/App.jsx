@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/portfolio-site-react/">
       <div className="min-h-screen bg-dark text-white">
         <Navbar />
         <Routes>
