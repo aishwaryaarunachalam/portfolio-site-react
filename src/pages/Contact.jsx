@@ -6,7 +6,7 @@ const Contact = () => {
   const [formData, setFormData] = useState({
     name: '',
     email: '',
-    message: 'Hi Aishwarya, I am reaching out regarding an AI engineering requirement..'
+    message: 'Hi Aishwarya, I am reaching out regarding an AI requirement..'
   });
 
   const handleChange = (e) => {
@@ -119,7 +119,7 @@ const Contact = () => {
           >
             <h3 className="text-3xl font-bold mb-6">Get In Touch</h3>
             <p className="text-gray-400 mb-10 leading-relaxed">
-              For any inquiries regarding AI engineering, please fill out the form below and I will get back to you as soon as possible.
+              For any inquiries regarding AI, please fill out the form below and I will get back to you as soon as possible.
             </p>
 
             <form onSubmit={handleSubmit} className="space-y-6">
