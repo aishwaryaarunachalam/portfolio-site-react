@@ -72,7 +72,7 @@ const About = () => {
                   View My Work
                 </Link>
                 <a 
-                  href="/resume.pdf" 
+                  href="/portfolio-site-react/resume.pdf" 
                   download="Aishwarya_Resume.pdf"
                   className="px-6 py-3 border border-primary text-primary font-medium rounded-full hover:bg-primary/10 transition-all flex items-center gap-2"
                 >
