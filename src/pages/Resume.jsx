@@ -66,7 +66,7 @@ const Resume = () => {
                   </div>
                   <p className="text-gray-300 italic mb-2">C-DAC, Bangalore</p>
                   <p className="text-gray-400 text-sm">
-                    Graduated top of class (86.7%). Built "MediMitra", a context-aware agentic healthcare chatbot combining RAG, OCR, and AWS.
+                    Graduated with 8.67 CGPA. Built "MediMitra", a context-aware healthcare agent that has RAG architecture & AWS implementation. It uses SuryaOCR, Mistral-instruct LLM, Pubmed-BERT based LLM for RAG, PGVector for Vector Store.
                   </p>
                 </div>
 
@@ -119,7 +119,7 @@ const Resume = () => {
               </h3>
               <ul className="list-disc list-inside text-gray-400 space-y-2">
                 <li>KNIME AI Chatbots, RAG & Governance</li>
-                <li>Digital Marketing Associate - Meta, Google, Amazon Ads</li>
+                <li> Diploma in Artificial Intelligence - CDAC - 2016</li>
               </ul>
             </div>
           </div>
@@ -166,27 +166,32 @@ const Resume = () => {
                 {/* Job 3 */}
                 <div className="relative">
                   <span className="absolute -left-[41px] top-1 h-5 w-5 rounded-full border-2 border-primary bg-dark"></span>
-                  <h4 className="text-xl font-bold text-white">Academic Content Consultant</h4>
+                  <h4 className="text-xl font-bold text-white">Digital Marketing Freelancer</h4>
                   <div className="inline-block bg-primary/10 text-primary px-3 py-1 rounded-full text-sm font-semibold my-2">
-                    Sep 2018 - Mar 2020
+                    Jun 2016 - May 2020
                   </div>
-                  <p className="text-gray-300 italic mb-3">Kognify</p>
+                  <p className="text-gray-300 italic mb-3">Fiverr</p>
                   <ul className="list-disc list-inside text-gray-400 text-sm space-y-2">
-                    <li>Structured syllabus for CBSE/ICSE curriculum client classes.</li>
+                    <li>A certified digital marketing freelancer specializing in SEO, SEM, SMM and website development services. From website optimization to social media campaigns, I helped businesses increase their online visibility and drive more traffic, leads, and sales.</li>
+                    <li>Certified by Google,Meta & Amazon - certificate credentials available in LinkedIn</li>
                   </ul>
                 </div>
 
                 {/* Job 4 */}
                 <div className="relative">
                   <span className="absolute -left-[41px] top-1 h-5 w-5 rounded-full border-2 border-primary bg-dark"></span>
-                  <h4 className="text-xl font-bold text-white">System Engineer</h4>
+                  <h4 className="text-xl font-bold text-white">Systems Engineer</h4>
                   <div className="inline-block bg-primary/10 text-primary px-3 py-1 rounded-full text-sm font-semibold my-2">
                     Nov 2013 - Feb 2016
                   </div>
                   <p className="text-gray-300 italic mb-3">Tata Consultancy Services (TCS)</p>
                   <ul className="list-disc list-inside text-gray-400 text-sm space-y-2">
-                    <li>Migrated legacy apps to Intellimatch for a major UK/US investment bank.</li>
-                    <li>Received multiple "On the Spot" awards for documentation and complex migration efforts.</li>
+                    <li>Worked in migrating an in-house legacy application with four major and two minor reconciliations of a US & UK based investment banking giant into Intellimatch.</li>
+                    <li>Worked in Agile environment </li>
+                    <li>Received "Star of the Quarter" award for exceptional delivery efforts in a tight deadline project.</li>
+                    <li>Received "On the Spot" award twice for documentation and complex migration efforts.</li>
+                    <li>Received appreciations from my client managers for exceptional documentation.</li>
+                    <li>Completed NCFM Foundation certification by NSE(License available in LinkedIn)</li>
                   </ul>
                 </div>
 
