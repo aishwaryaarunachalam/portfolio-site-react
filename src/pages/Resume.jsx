@@ -149,7 +149,6 @@ const Resume = () => {
                   </ul>
                 </div>
 
-                {/* Job 3 */}
                 <div className="relative">
                   <span className="absolute -left-[41px] top-1 h-5 w-5 rounded-full border-2 border-primary bg-dark"></span>
                   <h4 className="text-xl font-bold text-white">Digital Marketing Freelancer</h4>
@@ -163,7 +162,6 @@ const Resume = () => {
                   </ul>
                 </div>
 
-                {/* Job 4 */}
                 <div className="relative">
                   <span className="absolute -left-[41px] top-1 h-5 w-5 rounded-full border-2 border-primary bg-dark"></span>
                   <h4 className="text-xl font-bold text-white">Systems Engineer</h4>
