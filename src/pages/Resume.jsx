@@ -15,7 +15,7 @@ const Resume = () => {
   const skills = [
     { name: "Machine Learning & Deep Learning", level: "95%" },
     { name: "AgenticAI, GenAI, LLMs & RAG Pipelines", level: "90%" },
-    { name: "Python, Java & SQL", level: "92%" },
+    { name: "Python & SQL", level: "92%" },
     { name: "AWS, Jenkins, Docker & Kubernetes", level: "85%" },
     { name: "Computer Vision (OCR/OpenCV)", level: "88%" },
     { name: "Full Stack (MEAN/REST APIs)", level: "80%" }
@@ -77,7 +77,7 @@ const Resume = () => {
                   <div className="inline-block bg-primary/10 text-primary px-3 py-1 rounded-full text-sm font-semibold my-2">
                     2009 - 2013
                   </div>
-                  <p className="text-gray-300 italic mb-2">Sri Sairam Engineering College</p>
+                  <p className="text-gray-300 italic mb-2">Anna University, Chennai</p>
                   <p className="text-gray-400 text-sm">
                     CGPA: 8.39. Developed an enhanced management system for Railways winning the intercollege project expo.
                   </p>
@@ -149,26 +149,12 @@ const Resume = () => {
                   </ul>
                 </div>
 
-                {/* Job 2 */}
-                <div className="relative">
-                  <span className="absolute -left-[41px] top-1 h-5 w-5 rounded-full border-2 border-primary bg-dark"></span>
-                  <h4 className="text-xl font-bold text-white">Technical Solutions Architect</h4>
-                  <div className="inline-block bg-primary/10 text-primary px-3 py-1 rounded-full text-sm font-semibold my-2">
-                    Apr 2021 - Aug 2021
-                  </div>
-                  <p className="text-gray-300 italic mb-3">The Conversation Company</p>
-                  <ul className="list-disc list-inside text-gray-400 text-sm space-y-2">
-                    <li>Managed digital architecture and social media footprints for startups.</li>
-                    <li>Designed branding and technical marketing strategies.</li>
-                  </ul>
-                </div>
-
                 {/* Job 3 */}
                 <div className="relative">
                   <span className="absolute -left-[41px] top-1 h-5 w-5 rounded-full border-2 border-primary bg-dark"></span>
                   <h4 className="text-xl font-bold text-white">Digital Marketing Freelancer</h4>
                   <div className="inline-block bg-primary/10 text-primary px-3 py-1 rounded-full text-sm font-semibold my-2">
-                    Jun 2016 - May 2020
+                    Jun 2016 - May 2021
                   </div>
                   <p className="text-gray-300 italic mb-3">Fiverr</p>
                   <ul className="list-disc list-inside text-gray-400 text-sm space-y-2">
@@ -188,8 +174,6 @@ const Resume = () => {
                   <ul className="list-disc list-inside text-gray-400 text-sm space-y-2">
                     <li>Worked in migrating an in-house legacy application with four major and two minor reconciliations of a US & UK based investment banking giant into Intellimatch.</li>
                     <li>Worked in Agile environment </li>
-                    <li>Received "Star of the Quarter" award for exceptional delivery efforts in a tight deadline project.</li>
-                    <li>Received "On the Spot" award twice for documentation and complex migration efforts.</li>
                     <li>Received appreciations from my client managers for exceptional documentation.</li>
                     <li>Completed NCFM Foundation certification by NSE(License available in LinkedIn)</li>
                   </ul>
@@ -215,7 +199,7 @@ const Resume = () => {
                   </li>
                   <li className="flex gap-3 text-gray-300">
                     <span className="text-primary mt-1">★</span>
-                    <span><strong>On the Spot Awards (TCS):</strong> Received twice for exceptional documentation and learning curve.</span>
+                    <span><strong>On the Spot Award (TCS):</strong> Received twice for exceptional documentation and learning curve.</span>
                   </li>
                 </ul>
               </div>
