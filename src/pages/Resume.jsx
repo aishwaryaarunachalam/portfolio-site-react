@@ -161,7 +161,7 @@ const Resume = () => {
                   <span className="absolute -left-[41px] top-1 h-5 w-5 rounded-full border-2 border-primary bg-dark"></span>
                   <h4 className="text-xl font-bold text-white">Freelance Full Stack Developer</h4>
                   <div className="inline-block bg-primary/10 text-primary px-3 py-1 rounded-full text-sm font-semibold my-2">
-                    Sep 2021 – Apr 2025
+                    Sep 2021 – Jul 2025
                   </div>
                   <p className="text-gray-300 italic mb-3">Self-Employed · Bengaluru</p>
                   <ul className="list-disc list-inside text-gray-400 text-sm space-y-2">
