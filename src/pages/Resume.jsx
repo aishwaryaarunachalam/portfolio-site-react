@@ -135,7 +135,15 @@ const Resume = () => {
                 <FaTrophy /> Certifications
               </h3>
               <ul className="list-disc list-inside text-gray-400 space-y-2 text-sm">
-                <li>Google Enterprise Agent Ready Certification (In Progress)</li>
+                <li>Google Enterprise Agent Ready Certification - In partnership Ministry of Information and Broadcasting (MIB) of GoI {" "}
+                  <a
+                    href="https://www.skills.google/public_profiles/3db3786f-bb18-4858-8ec5-7a56f4868a45"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-primary hover:underline"
+                  >
+                    View Google Badges
+                  </a></li> 
                 <li>Claude with Bedrock & Vertex AI, MCP, Agents, SubAgents, Claude Code — Anthropic SkillJar</li>
                 <li>KNIME AI Chatbots, RAG & Governance</li>
                 <li>Prompt Design in Vertex AI · Google AI Essentials · Google Prompting Essentials — Coursera</li>
@@ -213,11 +221,11 @@ const Resume = () => {
                 <ul className="space-y-4">
                   <li className="flex gap-3 text-gray-300">
                     <span className="text-primary mt-1">★</span>
-                    <span><strong>Best Capstone Project — C-DAC Cohort:</strong> Recognised for technical implementation, innovation, and practical business impact.</span>
+                    <span>Recognised for technical implementation, innovation, and practical business impact.</span>
                   </li>
                   <li className="flex gap-3 text-gray-300">
                     <span className="text-primary mt-1">★</span>
-                    <span><strong>All India C-CAT Rank 223 (Jun 2025):</strong> Secured top rank in the highly competitive C-CAT entrance examination.</span>
+                    <span><strong>All India C-CAT Rank 723 (Jun 2025):</strong> Secured top rank in the highly competitive C-CAT entrance examination.</span>
                   </li>
                   <li className="flex gap-3 text-gray-300">
                     <span className="text-primary mt-1">★</span>
