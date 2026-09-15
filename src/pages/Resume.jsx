@@ -149,6 +149,15 @@ const Resume = () => {
                 <li>Prompt Design in Vertex AI · Google AI Essentials · Google Prompting Essentials — Coursera</li>
                 <li>Digital Marketing Associate — Meta, Google, Amazon Ads</li>
                 <li>NSE NCFM Foundation Module</li>
+                <li> Credly Badges 
+  <a
+    href="https://www.credly.com/users/aishwaryaarunachalam"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-primary hover:underline"
+  >
+    Credly Badges
+  </a></li>
               </ul>
             </div>
 
