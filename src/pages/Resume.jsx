@@ -83,7 +83,7 @@ const Resume = () => {
                     900-hour full-time program. Graduated with 86.6% (A+ Grade). Recognised as
                     Best-Performing Capstone Project in the cohort for MediMitra — a safety-compliant
                     AI healthcare agent with RAG, SuryaOCR, Mistral-7B, and AWS deployment.
-                    All India C-CAT Rank 223.
+                    All India C-CAT Rank 723.
                   </p>
                 </div>
 
@@ -149,14 +149,14 @@ const Resume = () => {
                 <li>Prompt Design in Vertex AI · Google AI Essentials · Google Prompting Essentials — Coursera</li>
                 <li>Digital Marketing Associate — Meta, Google, Amazon Ads</li>
                 <li>NSE NCFM Foundation Module</li>
-                <li> Credly Badges 
+                <li> 
   <a
     href="https://www.credly.com/users/aishwaryaarunachalam"
     target="_blank"
     rel="noopener noreferrer"
     className="text-primary hover:underline"
   >
-    Credly Badges
+    View Credly Badges
   </a></li>
               </ul>
             </div>
